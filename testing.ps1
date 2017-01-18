@@ -1,1 +1,1 @@
-Write-Host "Gee I hope this works."
+Write-Host 'Gee I hope this works'
