@@ -3,6 +3,6 @@ $speak = New-Object System.Speech.Synthesis.SpeechSynthesizer
 $speak.Volume=100
 $i = 0
 do {
-  $speak.Speak("Texas BBQ is the best!")
+  $speak.Speak("Apple products suck!")
   $i++
 } while ($i -le 20)
