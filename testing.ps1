@@ -5,4 +5,4 @@ $i = 0
 do {
   $speak.Speak("Apple products suck!")
   $i++
-} while ($i -le 20)
+} while ($i -le 10)
